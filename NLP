@@ -1,0 +1,14 @@
+NLP Basics 
+
+Text Pre-processing
+  1.Noise Removal
+  2.Lexicon Normalization
+    2.1.Lemmetization
+    2.2.Stemming
+  3.Object Standardization
+  
+  
+Tokenization – process of converting a text into tokens
+Tokens – words or entities present in the text
+Text object – a sentence or a phrase or a word or an article
+    
